@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CardBinIdentifier-Kotlin</string>
+    <string name="label_cn">Enter the first digits of a card number (BIN/IIN)</string>
+</resources>
